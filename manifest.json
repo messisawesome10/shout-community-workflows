@@ -1,0 +1,184 @@
+{
+  "generated_at" : "2026-04-21T17:51:53Z",
+  "schema_version" : 1,
+  "workflows" : [
+    {
+      "author" : {
+        "id" : "shout",
+        "name" : "Shout"
+      },
+      "category" : "productivity",
+      "created_at" : "2026-01-21T17:51:53Z",
+      "description" : "Structure transcription as meeting notes with action items",
+      "icon_color" : "#5E5CE6",
+      "icon_name" : "doc.text",
+      "id" : "C0000001-0000-0000-0000-000000000001",
+      "install_count" : 12840,
+      "name" : "Meeting Notes",
+      "paste_action" : "paste",
+      "prefix" : "Meeting Notes:\n",
+      "source" : "community",
+      "suffix" : "\n\n---\nAction Items:",
+      "updated_at" : "2026-04-18T17:51:53Z"
+    },
+    {
+      "author" : {
+        "id" : "shout",
+        "name" : "Shout"
+      },
+      "category" : "communication",
+      "created_at" : "2026-02-05T17:51:53Z",
+      "description" : "Voice-to-Slack: paste and send instantly",
+      "icon_color" : "#4A154B",
+      "icon_name" : "bubble.left.and.bubble.right",
+      "id" : "C0000001-0000-0000-0000-000000000002",
+      "install_count" : 11350,
+      "name" : "Slack Message",
+      "paste_action" : "paste_enter",
+      "source" : "community",
+      "updated_at" : "2026-04-17T17:51:53Z"
+    },
+    {
+      "author" : {
+        "id" : "devtools",
+        "name" : "DevTools"
+      },
+      "category" : "coding",
+      "created_at" : "2026-03-22T17:51:53Z",
+      "description" : "Prefix transcription for code review context",
+      "icon_color" : "#30D158",
+      "icon_name" : "chevron.left.forwardslash.chevron.right",
+      "id" : "C0000001-0000-0000-0000-000000000003",
+      "install_count" : 5890,
+      "name" : "Code Review",
+      "paste_action" : "paste",
+      "prefix" : "Code Review:\n\n",
+      "source" : "community",
+      "updated_at" : "2026-04-16T17:51:53Z"
+    },
+    {
+      "author" : {
+        "id" : "mailcraft",
+        "name" : "MailCraft"
+      },
+      "category" : "communication",
+      "created_at" : "2026-04-11T17:51:53Z",
+      "description" : "Start an email from voice with subject line and sign-off",
+      "icon_color" : "#007AFF",
+      "icon_name" : "envelope",
+      "id" : "C0000001-0000-0000-0000-000000000004",
+      "install_count" : 3450,
+      "name" : "Email Draft",
+      "paste_action" : "paste",
+      "prefix" : "Subject: \n\n",
+      "source" : "community",
+      "suffix" : "\n\nBest regards",
+      "updated_at" : "2026-04-20T17:51:53Z"
+    },
+    {
+      "author" : {
+        "id" : "shout",
+        "name" : "Shout"
+      },
+      "category" : "productivity",
+      "created_at" : "2025-12-22T17:51:53Z",
+      "description" : "Paste and auto-save for fast note capture",
+      "icon_color" : "#FF9F0A",
+      "icon_name" : "note.text",
+      "id" : "C0000001-0000-0000-0000-000000000005",
+      "install_count" : 9430,
+      "name" : "Quick Note",
+      "paste_action" : "paste_save",
+      "source" : "community",
+      "updated_at" : "2026-04-14T17:51:53Z"
+    },
+    {
+      "author" : {
+        "id" : "devtools",
+        "name" : "DevTools"
+      },
+      "category" : "coding",
+      "created_at" : "2026-03-07T17:51:53Z",
+      "description" : "Paste and execute in terminal",
+      "icon_color" : "#30D158",
+      "icon_name" : "terminal",
+      "id" : "C0000001-0000-0000-0000-000000000006",
+      "install_count" : 7210,
+      "name" : "Terminal Command",
+      "paste_action" : "paste_enter",
+      "source" : "community",
+      "updated_at" : "2026-04-20T17:51:53Z"
+    },
+    {
+      "author" : {
+        "id" : "journalco",
+        "name" : "JournalCo"
+      },
+      "category" : "creative",
+      "created_at" : "2026-02-20T17:51:53Z",
+      "description" : "Daily journaling with date prefix",
+      "icon_color" : "#FF375F",
+      "icon_name" : "book",
+      "id" : "C0000001-0000-0000-0000-000000000007",
+      "install_count" : 4120,
+      "name" : "Journal Entry",
+      "paste_action" : "paste_new_line",
+      "prefix" : "[21\/04\/2026]\n\n",
+      "source" : "community",
+      "updated_at" : "2026-04-19T17:51:53Z"
+    },
+    {
+      "author" : {
+        "id" : "devtools",
+        "name" : "DevTools"
+      },
+      "category" : "coding",
+      "created_at" : "2026-04-01T17:51:53Z",
+      "description" : "Structured bug report template from voice",
+      "icon_color" : "#FF375F",
+      "icon_name" : "ladybug",
+      "id" : "C0000001-0000-0000-0000-000000000008",
+      "install_count" : 2890,
+      "name" : "Bug Report",
+      "paste_action" : "paste",
+      "prefix" : "Bug Report:\n\nSteps:\n",
+      "source" : "community",
+      "suffix" : "\n\nExpected:\nActual:",
+      "updated_at" : "2026-04-20T17:51:53Z"
+    },
+    {
+      "author" : {
+        "id" : "shout",
+        "name" : "Shout"
+      },
+      "category" : "productivity",
+      "created_at" : "2026-01-11T17:51:53Z",
+      "description" : "Select all and replace with transcription",
+      "icon_color" : "#FF9F0A",
+      "icon_name" : "arrow.triangle.2.circlepath",
+      "id" : "C0000001-0000-0000-0000-000000000009",
+      "install_count" : 6320,
+      "name" : "Replace Content",
+      "paste_action" : "replace_all",
+      "source" : "community",
+      "updated_at" : "2026-04-11T17:51:53Z"
+    },
+    {
+      "author" : {
+        "id" : "shout",
+        "name" : "Shout"
+      },
+      "category" : "productivity",
+      "created_at" : "2026-03-02T17:51:53Z",
+      "description" : "Add transcription to the top of document",
+      "icon_color" : "#5E5CE6",
+      "icon_name" : "text.insert",
+      "id" : "C0000001-0000-0000-0000-00000000000A",
+      "install_count" : 3780,
+      "name" : "Prepend Note",
+      "paste_action" : "prepend_paste",
+      "source" : "community",
+      "updated_at" : "2026-04-13T17:51:53Z"
+    }
+  ]
+}
